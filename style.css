@@ -1,0 +1,22 @@
+p {
+  color: red;
+}
+h3 {
+  color: orange;
+}
+
+.div1 {
+  border: 5px solid rgb(206, 61, 4);
+  border-radius: 25px;
+  background-color: yellowgreen;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 10px 10px 10px gray;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.into-box {
+  color: black;
+}
